@@ -10,7 +10,7 @@ The Esala Perahera is an annual cultural and religious festival held in Kandy, S
 ## Top Attraction of the Esala Perahera Festival :
 During the Esala Perahera festival, there are several processions, including the Kumbal Perahera and various Devale Peraheras, each with its own unique features. However, **the Randoli Perahera stands out as the most spectacular and grand**, showcasing the festival's peak in terms of pageantry, with its elaborate decorations, vibrant traditional performances, and the prominent display of the Sacred Tooth Relic. The Randoli Perahera usually takes place during the final nights of the festival, marking its grand culmination.
 
-##Highlights of Esala Perahera
+## Highlights of Esala Perahera : 
 
 1. Sacred Tooth Relic Procession
 - The most significant element, where a replica of the Sacred Tooth Relic is carried on a highly decorated elephant.
