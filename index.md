@@ -1,7 +1,7 @@
 # KANDY ESALA PERAHERA 
 > Sri Lanka's Grand Buddhist Cultural Procession
 
-![Sample image](/assets/images/esala-perhera01.jpg)
+![Perahera image](./assets/images/esala-perhera01.jpg)
 
 ## What is Esala Perahera :
 
