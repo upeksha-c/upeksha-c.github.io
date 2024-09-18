@@ -1,4 +1,4 @@
-# ESALA PERAHERA 
+# KANDY ESALA PERAHERA 
 > Sri Lanka's Grand Buddhist Cultural Procession
 
 ![Sample image](/assets/esala-perhera01.jpg)
@@ -42,3 +42,5 @@ During the Esala Perahera festival, there are several processions, including the
 8. Offerings and Rituals
 - Offerings of flowers, fruits, and incense are presented to the Sacred Tooth Relic and other deities.
 - Rituals and prayers are performed throughout the procession to seek blessings and ensure the prosperity of the city and its inhabitants.
+
+[![Video Title](https://img.youtube.com/vi/l8xRJgFr-dY/0.jpg)](https://www.youtube.com/watch?v=l8xRJgFr-dY)
