@@ -47,4 +47,4 @@ During the Esala Perahera festival, there are several processions, including the
 
 Click here for [Esala Perahera Official Website](https://kandyesalaperahera.com/)
 
-**Made by : Upeksha Chiranthi**
+*Made by : Upeksha Chiranthi*
